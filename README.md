@@ -6,7 +6,7 @@ My name is Siddhant Gidde, and I recently graduated from Shri Nehru Mahavidhyala
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddhant.gidde) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddhantgidde/) 
 
 # 💻 Skills:
- <p>
+<p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
     <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40" />
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40" />
@@ -17,7 +17,8 @@ My name is Siddhant Gidde, and I recently graduated from Shri Nehru Mahavidhyala
     <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="40" height="40" />
     
   </p>
-  # 📊 GitHub Stats:
+  
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=siddhantgidde&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=siddhantgidde&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantgidde&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
