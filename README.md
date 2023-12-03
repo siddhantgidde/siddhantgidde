@@ -5,7 +5,7 @@ My name is Siddhant Gidde, and I recently graduated from Shri Nehru Mahavidhyala
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddhant.gidde) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddhantgidde/) 
 
-# 💻 Skills:
+## 💻 Skills:
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
     <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40" />
